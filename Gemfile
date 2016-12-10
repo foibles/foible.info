@@ -6,3 +6,4 @@ gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
 gem "jemoji"
+gem 'github-pages', group: :jekyll_plugins
