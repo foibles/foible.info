@@ -4,7 +4,7 @@ title:  "Example 2"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
-img: image-5.jpg
+img: stoke-cottage_1.jpg
 categories: [one, two]
 color: 9E9D24
 author: webjeda
