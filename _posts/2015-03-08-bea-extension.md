@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usage Guide"
+title:  "Bea Extension"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
 categories: jekyll update
 img: bea-extension.jpg

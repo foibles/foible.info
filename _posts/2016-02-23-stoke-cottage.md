@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example 2"
+title:  "Stoke Cottage"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample post"
+title: "Heliostat Shell" 
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas imperdiet magna quam, pulvinar vulputate odio rutrum at. Praesent quis lorem volutpat, interdum est quis, luctus ligula.
 categories: jekyll update
 img: heliostat-shell.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example 3"
+title:  "Blowers Deck"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. You’ll find this post in your `_posts` directory.
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post with no image"
+title:  "Laser Microscope"
 description: No image? No problem. The card will still look good! But having an image increases click through rate.
 color: 00897B
 img: laser-microscope.jpg
