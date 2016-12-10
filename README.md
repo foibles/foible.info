@@ -1,69 +1,44 @@
-# Forty - Jekyll Theme
+Demo: [http://webjeda.com/karna](http://webjeda.com/karna)
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+# Installation: 
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+Watch my video on instlallation
+<iframe class="video" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-# How to Use
+## How to delete old **gh-pages** branch?
+After forking the repository, click on **branches**.
 
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch.png)
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
+Delete ``gh-pages`` branch.
+![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch-2.png)
 
-# Added Features
+You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* **Automatic sitemap generation** via the [Jekyll Sitemap Generator](https://github.com/jekyll/jekyll-sitemap) plugin.
-* **Automatic RSS/Atom feed generation** via the [Jekyll Feed](https://github.com/jekyll/jekyll-feed) plugin.
-* **Automatic SEO** via the [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) plugin.
-* :thumbsup: **Emoji** support via the [Jemoji](https://github.com/jekyll/jemoji) plugin.
-* Set **featured images** in front matter.
+![create gh-pages branch](http://blog.webjeda.com/images/create-gh-pages-branch.JPG)
 
-# Credits
+Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
 
-Original README from HTML5 UP:
+This process will host the theme as a **Project Page**. You can also download the files for local development. 
 
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+The default theme will look like this
+
+![webjeda karna jekyll theme](/images/karna-jekyll-theme-screenshot.png)
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+A sample post would look like this
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+![webjeda karna jekyll theme sidebar](/images/post.png)
 
 
-Credits:
+This theme is made especially for smartphones.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+![webjeda karna responsive jekyll theme](/images/karna-responsive-jekyll-theme.png)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+# Development
+Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+# License
+MIT License
