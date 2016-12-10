@@ -3,7 +3,7 @@ layout: post
 title:  "Sample post"
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas imperdiet magna quam, pulvinar vulputate odio rutrum at. Praesent quis lorem volutpat, interdum est quis, luctus ligula.
 categories: jekyll update
-img: image-9.jpg
+img: heliostat-shell.jpg
 categories: one
 color: ff1744 
 author: webjeda

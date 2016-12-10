@@ -3,7 +3,7 @@ layout: post
 title:  "Usage Guide"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
 categories: jekyll update
-img: image-7.jpg
+img: bea-extension.jpg
 categories: two
 color: 37474F
 author: webjeda

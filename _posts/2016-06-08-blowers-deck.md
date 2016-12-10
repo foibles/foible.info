@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Example 2"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  
+title:  "Example 3"
+description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. You’ll find this post in your `_posts` directory.
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
-img: stoke-cottage_1.jpg
+img: blowers-deck.jpg
 categories: [one, two]
-color: 9E9D24
+color: 4A148C
 author: webjeda
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

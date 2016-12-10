@@ -3,7 +3,7 @@ layout: post
 title:  "Elements"
 description: Sed laoreet purus vitae diam rutrum porttitor. Sed ipsum lectus, finibus at venenatis congue, condimentum vel lorem. Maecenas ac sodales tellus. Proin placerat aliquam feugiat.
 categories: jekyll update
-img: image-8.jpg
+img: spinning-roof.jpg
 color: FF6F00
 author: webjeda
 ---
